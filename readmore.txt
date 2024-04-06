@@ -1,8 +1,10 @@
-file 5
-file 5
-file 5
-file 5
-file 5
+
+file 10
 new version of file
 
 commit
+
+
+file 10
+
+file 10
