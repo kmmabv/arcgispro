@@ -3,3 +3,4 @@ new again
 file 2
 new again
 file 5
+file 6
