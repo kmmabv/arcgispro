@@ -1,5 +1,7 @@
-file 2
-file 2
+UPDATE
+
+file 3
+file 3
 new version of file
 
 commit
