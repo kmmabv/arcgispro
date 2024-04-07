@@ -1,7 +1,7 @@
-UPDATE
+UPDATE 4
 
-file 3
-file 3
+file 4
+file 4
 new version of file
 
 commit
