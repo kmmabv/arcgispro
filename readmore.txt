@@ -1,4 +1,5 @@
-FIRST commit 1
+Second version
+UPDATE 2
 new version of file
 
 commit
